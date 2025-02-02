@@ -18,5 +18,3 @@ while i <= 10 :
         continue #skip
     print(i)
     i += 1
-
-    # 5:37:54 -> for loop

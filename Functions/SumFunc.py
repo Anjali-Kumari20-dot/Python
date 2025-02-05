@@ -12,3 +12,4 @@ def avg(a, b, c):
 print(avg(12,23,34))
 
 print("Anjali \n Kumari")
+  

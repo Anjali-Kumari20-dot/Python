@@ -4,5 +4,3 @@ data = f.read()
 print(data)
 print(type(data))
 f.close()
-
-# 5:32:23

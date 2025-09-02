@@ -13,7 +13,7 @@ class ToyotaCar(Car):
         self.name = name
 
 class Fortuner(ToyotaCar):
-    def __init__(self):
+    def __init__(self, type):
         self.type = type
 
 car1 = ToyotaCar("Fortuner")
